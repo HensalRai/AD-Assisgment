@@ -1,0 +1,8 @@
+E:\AD\Exercise6\obj\Debug\net6.0\Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+E:\AD\Exercise6\obj\Debug\net6.0\Exercise6.AssemblyInfoInputs.cache
+E:\AD\Exercise6\obj\Debug\net6.0\Exercise6.AssemblyInfo.cs
+E:\AD\Exercise6\obj\Debug\net6.0\Exercise6.csproj.CoreCompileInputs.cache
+D:\01Study\01Collage\2nd year\Quest\Report\C# Assisgment\Exercise6\obj\Debug\net6.0\Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+D:\01Study\01Collage\2nd year\Quest\Report\C# Assisgment\Exercise6\obj\Debug\net6.0\Exercise6.AssemblyInfoInputs.cache
+D:\01Study\01Collage\2nd year\Quest\Report\C# Assisgment\Exercise6\obj\Debug\net6.0\Exercise6.AssemblyInfo.cs
+D:\01Study\01Collage\2nd year\Quest\Report\C# Assisgment\Exercise6\obj\Debug\net6.0\Exercise6.csproj.CoreCompileInputs.cache

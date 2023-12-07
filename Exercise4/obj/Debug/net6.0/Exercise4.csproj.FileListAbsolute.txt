@@ -1,0 +1,14 @@
+E:\AD\Exercise4\bin\Debug\net6.0\Exercise4.exe
+E:\AD\Exercise4\bin\Debug\net6.0\Exercise4.deps.json
+E:\AD\Exercise4\bin\Debug\net6.0\Exercise4.runtimeconfig.json
+E:\AD\Exercise4\bin\Debug\net6.0\Exercise4.dll
+E:\AD\Exercise4\bin\Debug\net6.0\Exercise4.pdb
+E:\AD\Exercise4\obj\Debug\net6.0\Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+E:\AD\Exercise4\obj\Debug\net6.0\Exercise4.AssemblyInfoInputs.cache
+E:\AD\Exercise4\obj\Debug\net6.0\Exercise4.AssemblyInfo.cs
+E:\AD\Exercise4\obj\Debug\net6.0\Exercise4.csproj.CoreCompileInputs.cache
+E:\AD\Exercise4\obj\Debug\net6.0\Exercise4.dll
+E:\AD\Exercise4\obj\Debug\net6.0\refint\Exercise4.dll
+E:\AD\Exercise4\obj\Debug\net6.0\Exercise4.pdb
+E:\AD\Exercise4\obj\Debug\net6.0\Exercise4.genruntimeconfig.cache
+E:\AD\Exercise4\obj\Debug\net6.0\ref\Exercise4.dll

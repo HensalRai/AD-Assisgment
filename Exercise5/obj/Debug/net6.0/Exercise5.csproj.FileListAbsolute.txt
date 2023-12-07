@@ -1,0 +1,28 @@
+E:\AD\Exercise5\bin\Debug\net6.0\Exercise5.exe
+E:\AD\Exercise5\bin\Debug\net6.0\Exercise5.deps.json
+E:\AD\Exercise5\bin\Debug\net6.0\Exercise5.runtimeconfig.json
+E:\AD\Exercise5\bin\Debug\net6.0\Exercise5.dll
+E:\AD\Exercise5\bin\Debug\net6.0\Exercise5.pdb
+E:\AD\Exercise5\obj\Debug\net6.0\Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+E:\AD\Exercise5\obj\Debug\net6.0\Exercise5.AssemblyInfoInputs.cache
+E:\AD\Exercise5\obj\Debug\net6.0\Exercise5.AssemblyInfo.cs
+E:\AD\Exercise5\obj\Debug\net6.0\Exercise5.csproj.CoreCompileInputs.cache
+E:\AD\Exercise5\obj\Debug\net6.0\Exercise5.dll
+E:\AD\Exercise5\obj\Debug\net6.0\refint\Exercise5.dll
+E:\AD\Exercise5\obj\Debug\net6.0\Exercise5.pdb
+E:\AD\Exercise5\obj\Debug\net6.0\Exercise5.genruntimeconfig.cache
+E:\AD\Exercise5\obj\Debug\net6.0\ref\Exercise5.dll
+D:\01Study\01Collage\2nd year\Quest\Report\C# Assisgment\Exercise5\bin\Debug\net6.0\Exercise5.exe
+D:\01Study\01Collage\2nd year\Quest\Report\C# Assisgment\Exercise5\bin\Debug\net6.0\Exercise5.deps.json
+D:\01Study\01Collage\2nd year\Quest\Report\C# Assisgment\Exercise5\bin\Debug\net6.0\Exercise5.runtimeconfig.json
+D:\01Study\01Collage\2nd year\Quest\Report\C# Assisgment\Exercise5\bin\Debug\net6.0\Exercise5.dll
+D:\01Study\01Collage\2nd year\Quest\Report\C# Assisgment\Exercise5\bin\Debug\net6.0\Exercise5.pdb
+D:\01Study\01Collage\2nd year\Quest\Report\C# Assisgment\Exercise5\obj\Debug\net6.0\Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+D:\01Study\01Collage\2nd year\Quest\Report\C# Assisgment\Exercise5\obj\Debug\net6.0\Exercise5.AssemblyInfoInputs.cache
+D:\01Study\01Collage\2nd year\Quest\Report\C# Assisgment\Exercise5\obj\Debug\net6.0\Exercise5.AssemblyInfo.cs
+D:\01Study\01Collage\2nd year\Quest\Report\C# Assisgment\Exercise5\obj\Debug\net6.0\Exercise5.csproj.CoreCompileInputs.cache
+D:\01Study\01Collage\2nd year\Quest\Report\C# Assisgment\Exercise5\obj\Debug\net6.0\Exercise5.dll
+D:\01Study\01Collage\2nd year\Quest\Report\C# Assisgment\Exercise5\obj\Debug\net6.0\refint\Exercise5.dll
+D:\01Study\01Collage\2nd year\Quest\Report\C# Assisgment\Exercise5\obj\Debug\net6.0\Exercise5.pdb
+D:\01Study\01Collage\2nd year\Quest\Report\C# Assisgment\Exercise5\obj\Debug\net6.0\Exercise5.genruntimeconfig.cache
+D:\01Study\01Collage\2nd year\Quest\Report\C# Assisgment\Exercise5\obj\Debug\net6.0\ref\Exercise5.dll

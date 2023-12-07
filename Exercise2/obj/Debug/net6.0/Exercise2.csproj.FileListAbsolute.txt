@@ -1,0 +1,14 @@
+E:\AD\Exercise2\bin\Debug\net6.0\Exercise2.exe
+E:\AD\Exercise2\bin\Debug\net6.0\Exercise2.deps.json
+E:\AD\Exercise2\bin\Debug\net6.0\Exercise2.runtimeconfig.json
+E:\AD\Exercise2\bin\Debug\net6.0\Exercise2.dll
+E:\AD\Exercise2\bin\Debug\net6.0\Exercise2.pdb
+E:\AD\Exercise2\obj\Debug\net6.0\Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+E:\AD\Exercise2\obj\Debug\net6.0\Exercise2.AssemblyInfoInputs.cache
+E:\AD\Exercise2\obj\Debug\net6.0\Exercise2.AssemblyInfo.cs
+E:\AD\Exercise2\obj\Debug\net6.0\Exercise2.csproj.CoreCompileInputs.cache
+E:\AD\Exercise2\obj\Debug\net6.0\Exercise2.dll
+E:\AD\Exercise2\obj\Debug\net6.0\refint\Exercise2.dll
+E:\AD\Exercise2\obj\Debug\net6.0\Exercise2.pdb
+E:\AD\Exercise2\obj\Debug\net6.0\Exercise2.genruntimeconfig.cache
+E:\AD\Exercise2\obj\Debug\net6.0\ref\Exercise2.dll
